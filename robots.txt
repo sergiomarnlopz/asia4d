@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://asia4d.arxman.com/sitemap.xml
